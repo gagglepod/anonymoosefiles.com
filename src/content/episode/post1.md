@@ -1,8 +1,8 @@
 ---
-title: Demo Episode
-audioUrl: https://ia800505.us.archive.org/15/items/astropod/1%20-%20Trailer%20with%20BG%20%28enhanced%29.ogg
-pubDate: Sep 10 2022
-duration: 00:32
+title: "I am Not Easily Squished"
+audioUrl: "https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000018/20800032/nes001-i-am-not-easily-squished.mp3"
+pubDate: Jan 01 2022
+duration: 00:20
 size: 0.7
 cover: ""
 explicit: false
@@ -10,4 +10,5 @@ episode: 1
 season: 1
 episodeType: full
 ---
-This is an episode demo of Astropod. Here you can add the description of your episode.
+
+Where do podcast ideas come from? Kyle explains how the influences of two brilliant designers -- Sir Jony Ive and Hillman Curtis -- helped form his design philosophy foundation.
