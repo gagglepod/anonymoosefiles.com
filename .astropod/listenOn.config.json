@@ -1,12 +1,14 @@
 {
-  "spotify": "",
+  "podcastindex": "https://podcastindex.org/podcast/6014487",
+  "podverse": "https://podverse.fm/podcast/Lm6edZGO2",
+  "applePodcast": "https://podcasts.apple.com/us/podcast/not-easily-squished/id1504157398",
+  "amazonMusic": "https://music.amazon.com/podcasts/eb115cc0-4248-435f-88d7-842d9f34a4be/not-easily-squished",
+  "spotify": "https://open.spotify.com/show/5Rn8QSP6mq5DfZICBN0dfx",
   "googlePodcast": "",
-  "applePodcast": "",
   "easyPodcast": "",
-  "amazonMusic": "",
-  "fountain": "",
+  "fountain": "https://fountain.fm/show/aSkyLHbZSAkMFi8PhgKB",
   "ivoox": "",
-  "pocketcasts": "",
+  "pocketcasts": "https://podcastindex.org/podcast/6014487",
   "deezer": "",
   "acastPodcasts": ""
 }
