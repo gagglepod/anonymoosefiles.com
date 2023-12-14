@@ -1,7 +1,7 @@
 ---
 title: "Dawn of the Podcast Designer"
 audioUrl: "https://op3.dev/e/storage.googleapis.com/storage.oncetold.net/80000018/20800051/nes006-dawn-of-the-podcast-designer.mp3"
-pubDate: Jan 16 2022
+pubDate: Mar 02 2022
 duration: 00:20
 size: 0.7
 cover: ""
