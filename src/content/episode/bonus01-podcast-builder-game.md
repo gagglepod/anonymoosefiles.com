@@ -11,11 +11,11 @@ season: 1
 episodeType: full
 ---
 
-# Podcast Builder Game (Bonus)
+## Podcast Builder Game (Bonus)
 
 To become an Audio Experience (AX) designer, you need to exercise your creativity. One idea is to use a game like the Podcast Builder Game to create a podcast in 30 minutes or less.
 
-## Here is how to play the game:
+### Here is how to play the game:
 
 - The host invites 2-4 guests to create 10 design requirements (5-10 minutes).
 - Each of the players spends some time creating a rough podcast idea (5-10 minutes).
