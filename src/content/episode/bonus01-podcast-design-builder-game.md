@@ -39,4 +39,5 @@ _"If you exercise your creative muscle then your next idea will not be easily sq
 
 ### Transcripts
 
-TBD
+- [Episode JSON Transcript](https://storage.googleapis.com/storage.oncetold.net/80000018/20800164/transcript.json)
+- [Episode SRT Transcript](https://storage.googleapis.com/storage.oncetold.net/80000018/20800164/transcript.srt)
