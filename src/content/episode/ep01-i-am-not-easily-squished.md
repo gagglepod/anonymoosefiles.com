@@ -15,7 +15,7 @@ episodeType: full
 
 Where do podcast ideas come from? Kyle explains how the influences of two brilliant designers -- Sir Jony Ive and Hillman Curtis -- helped form his design philosophy foundation.
 
-### Lessons from Sir Jony Ive:
+### Lessons from Sir Jony Ive
 
 - Encouraged informal questioning and inquiry, tolerated mistakes, and promoted innovation.
 - Make your studio into an "ideas factory" with brainstorming sessions at least two times a week -- No exceptions!
@@ -23,7 +23,7 @@ Where do podcast ideas come from? Kyle explains how the influences of two brilli
 - Constantly simplify and do away with as much as possible (Less is Better).
 - Make things that express your appreciation for people you will probably never meet.
 
-### Lessons from Hillman Curtis:
+### Lessons from Hillman Curtis
 
 - You need to make 100 bad designs before you discover a good one.
 - Take the ideas that are in your head and do something with them.
@@ -31,15 +31,15 @@ Where do podcast ideas come from? Kyle explains how the influences of two brilli
 - Ideas originate from a mind free from distractions.
 - Your job as a designer is to make the invisible visible.
 
-### Notable Quotes:
+### Notable Quotes
 
-_"While ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily squished."_
+_"While ideas ultimately can be so powerful, they begin as fragile, barely formed thoughts, so easily missed, so easily compromised, so easily squished."_<br />
 **-- Jony Ive (Apple)**
 
-_"The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable him or her to 'make the invisible visible'."_
+_"The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable him or her to 'make the invisible visible'."_<br />
 **-- Hillman Curtis**
 
-_"Be prepared to reinvent yourself. Be prepared to go out on a limb occasionally, and be prepared to do things that you feel strongly about."_
+_"Be prepared to reinvent yourself. Be prepared to go out on a limb occasionally, and be prepared to do things that you feel strongly about."_<br />
 **-- Hillman Curtis**
 
 ### Transcripts

@@ -23,7 +23,7 @@ I've created a [Podcast Industry Reference Model](https://storage.googleapis.com
 
 ### NES Design Master: Leonard E. Read
 
-Today's Master is Leonard E. Read. Mr. Read (who lived from 1898--1983) established the [Foundation for Economic Education (FEE)](href="https://fee.org/) in 1946 and served as FEE's president for 37 years. He was a strong defender of American liberty with a specific focus on individual freedom and private property rights. This is what led him to author 29 books and hundreds of essays.
+Today's Master is Leonard E. Read. Mr. Read (who lived from 1898--1983) established the [Foundation for Economic Education (FEE)](https://fee.org/) in 1946 and served as FEE's president for 37 years. He was a strong defender of American liberty with a specific focus on individual freedom and private property rights. This is what led him to author 29 books and hundreds of essays.
 
 But his powerful yet simple essay titled, [_I, Pencil: My Family Tree_](https://fee.org/resources/i-pencil/) published back in 1958, is his most famous work. For over 60 years hundreds of thousands of Americans of all ages have read (or heard) this simple and beautiful explanation of the miracle of the “invisible hand” by following the production of an ordinary pencil.
 
@@ -34,13 +34,13 @@ But his powerful yet simple essay titled, [_I, Pencil: My Family Tree_](https://
 
 ### Notable Quotes
 
-_"Leave all creative energies uninhibited."_
+_"Leave all creative energies uninhibited."_<br />
 **-- Leonard E. Read**
 
-_"[Markets are a] configuration of creative human energies. [Thousands] of tiny know-hows, configuring naturally and spontaneously in response to human necessity and desire. And in the absence of any human masterminding."_
+_"[Markets are a] configuration of creative human energies. [Thousands] of tiny know-hows, configuring naturally and spontaneously in response to human necessity and desire. And in the absence of any human masterminding."_<br />
 **-- Leonard E. Read**
 
-_"We are perishing for want of wonder, not for want of wonders."_
+_"We are perishing for want of wonder, not for want of wonders."_<br />
 **-- GK Chesterton**
 
 ### Transcripts

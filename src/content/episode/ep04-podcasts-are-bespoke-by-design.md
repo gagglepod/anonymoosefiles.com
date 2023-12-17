@@ -17,9 +17,14 @@ When considering the creation of a new podcast there are generally two options a
 
 ### Notable Quotes
 
-_"The concept is to create something that no other podcast has anywhere in your niche. That means you need to know who is in your niche."_
+_"The concept is to create something that no other podcast has anywhere in your niche. That means you need to know who is in your niche."_<br />
 **-- Kyle M. Bondo**
 
 ### Podcast Mentions
 
 Here's to Joe Saul-Sehy and [The Stacking Benjamins Show](https://www.stackingbenjamins.com) which takes talking about money while in your Mom's basement and shows you how being different then everyone else in your space works.
+
+### Transcripts
+
+- [Episode JSON Transcript](https://storage.googleapis.com/storage.oncetold.net/80000018/20800045/transcript.json)
+- [Episode SRT Transcript](https://storage.googleapis.com/storage.oncetold.net/80000018/20800045/transcript.srt)

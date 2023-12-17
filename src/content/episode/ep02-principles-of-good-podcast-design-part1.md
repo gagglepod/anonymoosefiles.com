@@ -27,10 +27,10 @@ Kyle explores the first 5 principles of the Ten Principles of Good Design in Par
 4. Good design makes a product understandable
 5. Good design is unobtrusive
 
-### Notable Quotes:
+### Notable Quotes
 
-<em>"Less is Better"</em>
---Dieter Rams
+_"Less is Better"_<br />
+**--Dieter Rams**
 
 ### Transcripts
 

@@ -17,7 +17,7 @@ Podcast design is an act of communication. However, a common mistake made by mos
 
 ### Notable Quotes
 
-_"Think about the way the same two lines can be spoken, but have very different meanings: 1. [EXCITED] Let’s Eat Grandpa!! 2. [SOFT] Let’s Eat, Grandpa. The first way makes it sound like your Grandpa IS the meal -- while the second way is an invitation for your Grandpa to join you for a nice meal. The same spoken words just performed very differently. This is what I mean about being bilingual."_
+_"Think about the way the same two lines can be spoken, but have very different meanings: 1. [EXCITED] Let’s Eat Grandpa!! 2. [SOFT] Let’s Eat, Grandpa. The first way makes it sound like your Grandpa IS the meal -- while the second way is an invitation for your Grandpa to join you for a nice meal. The same spoken words just performed very differently. This is what I mean about being bilingual."_<br />
 **-- Kyle M. Bondo**
 
 ### Transcripts

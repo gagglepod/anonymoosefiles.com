@@ -27,10 +27,10 @@ Kyle explores the last 5 principles of the Ten Principles of Good Design in Part
 9. Good design is environmentally-friendly
 10. Good design is as little design as possible
 
-### Notable Quotes:
+### Notable Quotes
 
-<em>"Less is Better"</em>
---Dieter Rams
+_"Less is Better"_<br />
+**--Dieter Rams**
 
 ### Transcripts
 
