@@ -1,9 +1,9 @@
 {
-  "copyright": "Copyright © 2023. Not Easily Squished and Oncetold. All Rights Reserved",
+  "copyright": "Copyright © 2024. The AnonyMoose Files and Oncetold. All Rights Reserved",
   "theme": "light",
   "fundingText": "",
   "author": "Kyle M. Bondo",
-  "name": "Not Easily Squished",
+  "name": "The AnonyMoose Files",
   "banner": "/banner.webp",
   "pageSize": 15,
   "fundingUrl": "",
@@ -14,12 +14,10 @@
   "language": "en",
   "link": "https://noteasilysquished",
   "email": "randomspoonstudios@gmail.com",
-  "description": "Podcasting starts with an idea: an idea that is not easily squished! However, long before their creators ever sit down at the microphone, a podcast idea needs to be hardened, tested and found worthy. This goes beyond just content creation and delivery. It requires real thought and structure to design a podcast that will survive long enough to find an audience. Follow your host Kyle M. Bondo as he takes fragile podcast ideas and transforms them into fierce audio concepts that are Not Easily Squished!",
+  "description": "AnonyMoose Files is a podcast that tells stories of outdoor survival gone wrong and how to live to explore another day.",
   "category": [
-    "Business",
-    "Marketing",
-    "Arts",
-    "Design"
+    "Sports",
+    "Wilderness"
   ],
   "feedSize": ""
 }
